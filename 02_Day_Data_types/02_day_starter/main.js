@@ -187,3 +187,22 @@ console.log(annualIncome)
 // https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md#random-number-generator
 
 
+
+
+// String length
+// String slice()
+// String substring()
+// String substr()
+// String replace()
+// String replaceAll()
+// String toUpperCase()
+// String toLowerCase()
+// String concat()
+// String trim()
+// String trimStart()
+// String trimEnd()
+// String padStart()
+// String padEnd()
+// String charAt()
+// String charCodeAt()
+// String split()
